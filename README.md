@@ -31,7 +31,7 @@
 4. 자동화 및 DevOps 프랙티스
 
 ### 📊 GitHub Stats
-<!--![Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwan8985&show_icons=true&theme=radical) -->
+[Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwan8985&show_icons=true&theme=radical)
 
 ### 🌱 Continuous Growth
 기술의 최전선에서 혁신을 추구하는 개발자로, 끊임없이 학습하고 도전합니다.
