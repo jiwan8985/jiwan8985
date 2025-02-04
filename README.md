@@ -28,14 +28,4 @@
 1. 다중 언어 프로그래밍
 2. 시스템 아키텍처 설계
 3. 클라우드 인프라 관리
-4. 자동화 및 DevOps 프랙티스
-
-### 📊 GitHub Stats
-[Jiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwan8985&show_icons=true&theme=radical)
-
-### 🌱 Continuous Growth
-기술의 최전선에서 혁신을 추구하는 개발자로, 끊임없이 학습하고 도전합니다.
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+4. 자동화 및 DevOps
